@@ -26,7 +26,7 @@ shared_preferences: Used for local data persistence (saving cards and transactio
 
 📱 Screenshots
 
-<img src="assets/images/preview1.png" height="600em" /><img src="assets/images/preview2.png" height="600em" /><img src="assets/images/preview3.png" height="600em" />
+<img src="assets/images/preview1.png" height="600em" />     <img src="assets/images/preview2.png" height="600em" />      <img src="assets/images/preview3.png" height="600em" />
 
 ⚙️ How to Run
 
